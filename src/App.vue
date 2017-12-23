@@ -35,7 +35,6 @@
 <script>
   import HelloWorld from "./HelloWorld.vue";
   import { db, moviesRef, charsRef, namesRef } from "./firebase";
-
   export default {
     name: "app",
     components: {
